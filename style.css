@@ -10,6 +10,16 @@ h1 {
 
 h2 {
     font-size: 40px;
+    color: gray;
+}
+
+h3 {
+    font-size: 30px;
+    color: gray;
+}
+
+h4 {
+    font-size: 25px;
 }
 
 #section-background {
@@ -59,10 +69,6 @@ h2 {
     padding-right: 22%;
 }
 
-h3 {
-    font-size: 30px;
-}
-
 .div-shadows {
     width: 29.33%;
     padding: 20px;
@@ -80,4 +86,19 @@ h3 {
 #padding {
     padding-left: 65px;
     padding-right: 65px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 85px;
+}
+
+footer p {
+    color: white;
+}
+
+#network-color {
+    color: gray;
 }
