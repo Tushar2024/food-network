@@ -4,15 +4,12 @@ body {
 }
 
 h1 {
-    font-size: 55px;
+    font-size: 52px;
+    font-weight: bolder;
 }
 
 h2 {
     font-size: 40px;
-}
-
-section {
-    display: flex;
 }
 
 #section-background {
@@ -21,6 +18,7 @@ section {
 }
 
 .section-styles {
+    display: flex;
     margin-bottom: 80px;
 }
 
@@ -53,4 +51,33 @@ section {
 
 #text-styles {
     padding-right: 110px;
+}
+
+.my-recipies-style {
+    text-align: center;
+    padding-left: 22%;
+    padding-right: 22%;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.div-shadows {
+    width: 29.33%;
+    padding: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 25px;
+    box-shadow: 7px 15px 30px gray;
+}
+
+.image-design {
+    width: 100%;
+    border-radius: 25px;
+}
+
+#padding {
+    padding-left: 65px;
+    padding-right: 65px;
 }
