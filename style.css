@@ -7,12 +7,30 @@ h1 {
     font-size: 55px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 section {
     display: flex;
 }
 
-.div-styles img {
-    width: 85%;
+#section-background {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.section-styles {
+    margin-bottom: 80px;
+}
+
+#image-width {
+    width: 100%;
+}
+
+#image-styles {
+    width: 59%;
+    padding-left: 130px;
 }
 
 .color-word {
@@ -21,7 +39,7 @@ section {
 
 .div-styles {
     width: 50%;
-    padding-left: 50px;
+    padding-left: 85px;
 }
 
 .link-decoration {
@@ -31,4 +49,8 @@ section {
     border-radius: 30px;
     padding: 20px 40px;
     font-weight: 600;
+}
+
+#text-styles {
+    padding-right: 110px;
 }
