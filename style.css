@@ -19,7 +19,7 @@ h3 {
 }
 
 h4 {
-    font-size: 25px;
+    font-size: 27px;
 }
 
 #section-background {
@@ -101,4 +101,34 @@ footer p {
 
 #network-color {
     color: gray;
+}
+
+#fresh-recepies {
+    background-image: url(images/food/1427992233528.jpeg);
+    background-repeat: no-repeat;
+    height: 80%;
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+#heading-style {
+    background-color: white;
+    width: 35%;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#heading-style a {
+    font-size: 26px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
 }
