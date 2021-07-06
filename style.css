@@ -92,14 +92,14 @@ footer {
     text-align: center;
     background-color: black;
     padding-top: 10px;
-    padding-bottom: 85px;
+    padding-bottom: 38px;
 }
 
 footer p {
     color: white;
 }
 
-#network-color {
+.network-color {
     color: gray;
 }
 
